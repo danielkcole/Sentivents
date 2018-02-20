@@ -1,2 +1,2 @@
-# sentivents
+# Sentivents
 Twitter Sentiment Analysis
