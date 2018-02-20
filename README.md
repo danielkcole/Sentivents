@@ -1,2 +1,2 @@
 # sentivents
-twitter sentiments ayyy
+Twitter Sentiment Analysis
